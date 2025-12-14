@@ -1,5 +1,3 @@
 Стартовый набор для выполнения проектной работы Место
-
-Для запуска приложения необходимо использовать live-server
 ![image.png](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5cTqFOUw0Vy3jXYnvB_EaY1etnvmT_QW79z6QvOPNrZt9qBj8)
-Live-server является расширением VSCode
+
